@@ -6,7 +6,6 @@ In this example we have developed very simple JS beautify plugin that will add m
 This implementation is also using Orion settings mechanism to extend the user experience by letting him select how to use the beautify logic.dd
 dsa
 
-sfddsfddsadsaasdasd
 ## Code Itdsfddd
 
 
