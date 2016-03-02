@@ -13,6 +13,7 @@
 
         provider.registerServiceProvider("orion.edit.outliner", {
             getOutline: function(contents, title) {
+                
                 var outline = [];
                 var lines = contents.split(/\r?\n/);
                 for (var i=0; i < lines.length; i++) {
